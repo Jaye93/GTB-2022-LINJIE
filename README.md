@@ -10,7 +10,7 @@ Hello everyone, my name is Lin Jie. You can call me Jaye. I'm glad to introduce 
 
 
 
-# Here is Jiuzhaigou in Autumn
+# Here are Photos about JIUZHAIGOU
 
 # 秋天的九寨沟1
 ![image](https://raw.githubusercontent.com/Jaye93/GTB-2022-LINJIE/main/autumn2.jpg)
@@ -18,5 +18,10 @@ Hello everyone, my name is Lin Jie. You can call me Jaye. I'm glad to introduce 
 # 秋天的九寨沟2
 ![image](https://raw.githubusercontent.com/Jaye93/GTB-2022-LINJIE/main/autumn.jpg)
 
-# 五花海
+# 五彩池
 ![image](https://raw.githubusercontent.com/Jaye93/GTB-2022-LINJIE/main/wucaichi.jpg)
+
+# 瀑布
+![image](https://raw.githubusercontent.com/Jaye93/GTB-2022-LINJIE/main/pubu.jpg)
+
+
